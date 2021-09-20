@@ -28,8 +28,14 @@ Translation vector:
  
 
 
-Epipolar lines of img1-img2 & img1-img3:
-![img1-img2](https://user-images.githubusercontent.com/63498645/134076133-1e8d79f8-7f76-44b8-8087-4ab917d613bc.png)
-![img1-img3](https://user-images.githubusercontent.com/63498645/134076146-5ef760bb-cd1e-4f83-bf4c-02984b6b202e.png)
+Epipolar lines and matched points of img1-img2 & img1-img3:
+![res1-2 1](https://user-images.githubusercontent.com/63498645/134078659-71e2534b-45cd-402a-b41e-78cc3a819ac8.png)
+![res1-2 2](https://user-images.githubusercontent.com/63498645/134078670-121b0559-cc17-418d-a36c-9a95e5ce3131.png)
+![res1-3 1](https://user-images.githubusercontent.com/63498645/134078695-46b66873-a058-42f2-8559-071734254822.png)
+![res1-3 2](https://user-images.githubusercontent.com/63498645/134078632-84a4cea0-eede-4e06-83e7-d5adf94d2a43.png)
+
+
+
+
 
 
