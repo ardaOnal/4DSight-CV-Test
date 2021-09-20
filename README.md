@@ -1,7 +1,7 @@
 # 4DSight-CV-Test
 4DSight Computer Vision test
 
-Tried to solve using solvePnP and use the 2D-3D correspondences however, I could not conclude the solution therefore, I took another approach where I did not use the 2D-3D correspondences. I got the idea for the solution from a matlab function [relativeCameraPose](https://www.mathworks.com/help/vision/ref/relativecamerapose.html#d123e153998). It basically calculates the Essential matrix from find matching points in two images and calculates the relative pose from the essential matrix.
+Tried to solve using solvePnP and use the 2D-3D correspondences however, I could not conclude the solution therefore, I took another approach where I did not use the 2D-3D correspondences. I got the idea for the solution from a matlab function [relativeCameraPose](https://www.mathworks.com/help/vision/ref/relativecamerapose.html#d123e153998). It basically calculates the Essential matrix from find matching points in two images and calculates the relative pose from the essential matrix. You can view the code in the file [test.py](https://github.com/ardaOnal/4DSight-CV-Test/blob/main/test.py).
 
 Here are the results I obtained:
 
