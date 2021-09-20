@@ -2,6 +2,7 @@
 4DSight Computer Vision test
 
 Here are the results I obtained:
+
 Solution for camera pose of img1 w.r.t. img2
 Rotation matrix:
 [[ 9.99999950e-01 -3.09285770e-04 -6.75795189e-05]
