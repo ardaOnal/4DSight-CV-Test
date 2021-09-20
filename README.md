@@ -27,7 +27,8 @@ Translation vector:
  [-0.11790126]]
  
 
-Epipolar lines of img1-img2 and img1-img3
+
+Epipolar lines of img1-img2 & img1-img3:
 ![img1-img2](https://user-images.githubusercontent.com/63498645/134076133-1e8d79f8-7f76-44b8-8087-4ab917d613bc.png)
 ![img1-img3](https://user-images.githubusercontent.com/63498645/134076146-5ef760bb-cd1e-4f83-bf4c-02984b6b202e.png)
 
