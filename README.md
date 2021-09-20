@@ -29,4 +29,4 @@ Epipolar lines of img1-img2 and img1-img3
 ![img1-img2](https://user-images.githubusercontent.com/63498645/134076133-1e8d79f8-7f76-44b8-8087-4ab917d613bc.png)
 ![img1-img3](https://user-images.githubusercontent.com/63498645/134076146-5ef760bb-cd1e-4f83-bf4c-02984b6b202e.png)
 
-Tried to solve using solvePnP and use the 2D-3D correspondences however, I could not conclude the solution therefore, I took another approach where I did not use the 2D-3D correspondences. I got the idea from a matlab function [relativeCameraPose](https://www.mathworks.com/help/vision/ref/relativecamerapose.html#d123e153998).
+Tried to solve using solvePnP and use the 2D-3D correspondences however, I could not conclude the solution therefore, I took another approach where I did not use the 2D-3D correspondences. I got the idea for the solution from a matlab function [relativeCameraPose](https://www.mathworks.com/help/vision/ref/relativecamerapose.html#d123e153998). It basically calculates the Essential matrix from find matching point two images and calculates the relative pose from the essential matrix.
